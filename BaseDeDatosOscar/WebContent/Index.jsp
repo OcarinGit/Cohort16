@@ -10,7 +10,7 @@
 
 </head>
 <body>
-	<h2>CrudJDBC</h2>
+	<h2>CrudJDBC Macho Modification</h2>
 	<ul>
 		<li> <a href="create.jsp" >Create animal</a></li>
 		<li> <a href="read.jsp" >Read animal</a></li>
