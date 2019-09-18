@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Create</h1>
+<h1>Create new thing</h1>
 <form action="createServlet" method="post">
 	<div>
 		<label for="nombre">Nombre  </label>
