@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>EL SHUY</h1>
+	<h1>EL SHUY y Mister Coffee</h1>
 	<h2>CRUD Practica</h2>
 	<ul>
 		<li><a href="create.jsp">Create Carnivorous</a></li>
