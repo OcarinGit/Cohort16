@@ -9,6 +9,7 @@
 <body>
 	<h1>EL SHUY y Mister Coffee</h1>
 	<h2>CRUD Practica</h2>
+	<h3>VIVA CHIHUAHUA!!!!</h3>
 	<ul>
 		<li><a href="create.jsp">Create Carnivorous</a></li>
 	</ul>
