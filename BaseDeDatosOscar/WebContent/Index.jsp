@@ -12,10 +12,10 @@
 <body>
 	<h2>CrudJDBC</h2>
 	<ul>
-		<li> <a href="create.jsp" >Create carnivorous animal</a></li>
-		<li> <a href="read.jsp" >Read carnivorous animal</a></li>
-		<li> <a href="update.jsp" >Update carnivorous animal</a></li>
-		<li> <a href="delete.jsp" >Delete carnivorous animal</a></li>
+		<li> <a href="create.jsp" >Create animal</a></li>
+		<li> <a href="read.jsp" >Read animal</a></li>
+		<li> <a href="update.jsp" >Update animal</a></li>
+		<li> <a href="delete.jsp" >Delete animal</a></li>
 		
 		
 		
