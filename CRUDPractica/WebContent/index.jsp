@@ -12,6 +12,7 @@
 	<h3>VIVA CHIHUAHUA!!!!</h3>
 	<ul>
 		<li><a href="create.jsp">Create Carnivorous</a></li>
+		<li><a href="delete.jsp">Delete Carnivorous</a></li>
 	</ul>
 </body>
 </html>
